@@ -1,7 +1,7 @@
 ## Project setup
 
 ## Clone
-- git clone https://github.com/johnadan/CRUD
+- git clone https://github.com/johnadan/CRUD-Capstone-3
 ## Install composer
 - composer install
 ## Configure .env
