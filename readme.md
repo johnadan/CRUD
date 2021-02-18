@@ -5,12 +5,12 @@
 ## Install composer
 - composer install
 ## Configure .env
-- Delete .env.example to make .env work  
+- cp .env.example .env 
 ## Generate key
-- Run php artisan key:generate
+- php artisan key:generate
 ## Clear configuration cache
-- Run php artisan config:cache
+- php artisan config:cache
 ## Migrate database
-- Run php artisan migrate
+- php artisan migrate
 ## Run application
-- Run php artisan serve
+- php artisan serve
